@@ -1,0 +1,1 @@
+É uma combinação de "Python", "Bank" e "Simulation", o que sugere que é um sistema bancário simples em Python para realizar até o limite de 3 saques e sem definir usuários. Além disso, é fácil de lembrar e reflete bem a funcionalidade do projeto.
